@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: confimap-family
+data:
+  members: "Victor, Marcelo, Roseli, Isa"
+  
